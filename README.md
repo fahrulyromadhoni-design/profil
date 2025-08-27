@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdul Rahman Hafidz</h1>
-<h3 align="center"> Hanya Seorang Hamba Allah Yang Banyak Dosa.</h3>
+<h1 align="center">FAHRULY ROMADHONI</h1>
+<h3 align="center"> KEISTIMEWAAN DI BULAN ROMADHON.</h3>
 
 <p align="left">  </p>
 <img align="right" alt="profil" width="250" height="400" src="profil.png">
 
 
-<h2 align="center">- 😄 Pronouns Keep Never Tired Learning</h2>
+<h2 align="center">- 😄 SOFTWERE EGENERRING</h2>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
